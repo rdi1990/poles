@@ -3,6 +3,8 @@ body {
   color: #0c0c0c;
   background-color: #ffffff1c;
   overflow-x: hidden;
+  margin: 0;
+  padding: 0;
 }
 
 .layout_padding {
