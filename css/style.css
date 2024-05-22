@@ -3,8 +3,8 @@ body {
   color: #0c0c0c;
   background-color: #ffffff1c;
   overflow-x: hidden;
-  margin: 0;
-  padding: 0;
+  margin : 0;
+  padding : 0;
 }
 
 .layout_padding {
@@ -1110,6 +1110,10 @@ a:focus {
   border-radius: 5px;
   font-size: 18px;
   margin-right: 10px;
+  -webkit-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -o-border-radius: 5px;
 }
 
 .info_form form {
